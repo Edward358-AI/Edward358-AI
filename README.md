@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edward358-AI
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Web Development!
-- 💞️ I’m looking to collaborate on any web projects!
+- 💞️ I’m looking forward to becoming fullstack this 2024!
 - 📫 How to reach me: 
 Discord: r3alitycubedSK #7958
 Email: edward456jiang@gmail.com
