@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @Edward358-AI
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning Web Development!
-- 💞️ I’m looking forward to becoming fullstack this 2024!
+- 👀 I’m interested in coding and physics!
+- 🌱 I’m currently learning Web Development and Physics!
 - 📫 How to reach me: 
 
 Discord: edward.jiang_
 
 Email: edward456jiang@gmail.com
-
-School Email: cj0670@pleasantonusd.net
 
 <!---
 Edward358-AI/Edward358-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
