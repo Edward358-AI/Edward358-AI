@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Edward358-AI
-- 👀 I’m interested in coding and physics!
-- 🌱 I’m currently learning Web Development and Physics!
+- 👀 I build stuff
 - 📫 How to reach me: 
 
 Discord: edward.jiang_
